@@ -28,7 +28,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'ckeditor',
     'ckeditor_uploader',
-    'captcha',
+    # 'captcha',
     'mptt',
     'mapbox_location_field',
 

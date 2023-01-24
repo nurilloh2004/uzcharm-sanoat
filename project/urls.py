@@ -16,7 +16,7 @@ urlpatterns.append(path("", index_page))
 
 urlpatterns += [
     path('rosetta/', include('rosetta.urls')),
-    path('captcha/', include('captcha.urls')),
+    # path('captcha/', include('captcha.urls')),
     path('ckeditor/', include('ckeditor_uploader.urls')),
 ]
 
