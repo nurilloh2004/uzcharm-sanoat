@@ -83,16 +83,7 @@ DATABASES = {
    }
 }
 
-# DATABASES = {
-# 	'default': {
-# 		'ENGINE': 'django.db.backends.postgresql',
-# 		'NAME': 'uzcharm2',
-# 		'USER': 'postgres',
-# 		'PASSWORD': 'ubuntu',
-# 		'HOST': 'localhost',
-# 		'PORT': '5432',
-# 	}
-# }
+
 
 AUTH_PASSWORD_VALIDATORS = [
     {
